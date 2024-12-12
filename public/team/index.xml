@@ -2,199 +2,199 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PySAL Team on PySAL</title>
-    <link>http://localhost:1313/team/</link>
+    <link>https://pysal.org/team/</link>
     <description>Recent content in PySAL Team on PySAL</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© PySAL Developers</copyright>
-    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pysal.org/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carson Farmer</title>
-      <link>http://localhost:1313/team/farmer/</link>
+      <link>https://pysal.org/team/farmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/farmer/</guid>
+      <guid>https://pysal.org/team/farmer/</guid>
       <description></description>
     </item>
     <item>
       <title>Charles Schmidt</title>
-      <link>http://localhost:1313/team/schmidt/</link>
+      <link>https://pysal.org/team/schmidt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/schmidt/</guid>
+      <guid>https://pysal.org/team/schmidt/</guid>
       <description></description>
     </item>
     <item>
       <title>Dani Arribas-Bel</title>
-      <link>http://localhost:1313/team/arribas/</link>
+      <link>https://pysal.org/team/arribas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/arribas/</guid>
+      <guid>https://pysal.org/team/arribas/</guid>
       <description></description>
     </item>
     <item>
       <title>David C. Folch</title>
-      <link>http://localhost:1313/team/folch/</link>
+      <link>https://pysal.org/team/folch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/folch/</guid>
+      <guid>https://pysal.org/team/folch/</guid>
       <description></description>
     </item>
     <item>
       <title>Eli Knaap</title>
-      <link>http://localhost:1313/team/knaap/</link>
+      <link>https://pysal.org/team/knaap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/knaap/</guid>
+      <guid>https://pysal.org/team/knaap/</guid>
       <description></description>
     </item>
     <item>
       <title>Germano Barcelos</title>
-      <link>http://localhost:1313/team/barcelos/</link>
+      <link>https://pysal.org/team/barcelos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/barcelos/</guid>
+      <guid>https://pysal.org/team/barcelos/</guid>
       <description></description>
     </item>
     <item>
       <title>Hu Shao</title>
-      <link>http://localhost:1313/team/shao/</link>
+      <link>https://pysal.org/team/shao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/shao/</guid>
+      <guid>https://pysal.org/team/shao/</guid>
       <description></description>
     </item>
     <item>
       <title>James Gaboardi</title>
-      <link>http://localhost:1313/team/gaboardi/</link>
+      <link>https://pysal.org/team/gaboardi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/gaboardi/</guid>
+      <guid>https://pysal.org/team/gaboardi/</guid>
       <description></description>
     </item>
     <item>
       <title>Jay Laura</title>
-      <link>http://localhost:1313/team/laura/</link>
+      <link>https://pysal.org/team/laura/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/laura/</guid>
+      <guid>https://pysal.org/team/laura/</guid>
       <description></description>
     </item>
     <item>
       <title>Jeff Sauer</title>
-      <link>http://localhost:1313/team/sauer/</link>
+      <link>https://pysal.org/team/sauer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/sauer/</guid>
+      <guid>https://pysal.org/team/sauer/</guid>
       <description></description>
     </item>
     <item>
       <title>Levi Wolf</title>
-      <link>http://localhost:1313/team/wolf/</link>
+      <link>https://pysal.org/team/wolf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/wolf/</guid>
+      <guid>https://pysal.org/team/wolf/</guid>
       <description></description>
     </item>
     <item>
       <title>Luc Anselin</title>
-      <link>http://localhost:1313/team/lanselin/</link>
+      <link>https://pysal.org/team/lanselin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/lanselin/</guid>
+      <guid>https://pysal.org/team/lanselin/</guid>
       <description></description>
     </item>
     <item>
       <title>Martin Fleischmann</title>
-      <link>http://localhost:1313/team/fleischmann/</link>
+      <link>https://pysal.org/team/fleischmann/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/fleischmann/</guid>
+      <guid>https://pysal.org/team/fleischmann/</guid>
       <description></description>
     </item>
     <item>
       <title>Marynia Kolak</title>
-      <link>http://localhost:1313/team/kolak/</link>
+      <link>https://pysal.org/team/kolak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/kolak/</guid>
+      <guid>https://pysal.org/team/kolak/</guid>
       <description></description>
     </item>
     <item>
       <title>Matthew Conway</title>
-      <link>http://localhost:1313/team/conway/</link>
+      <link>https://pysal.org/team/conway/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/conway/</guid>
+      <guid>https://pysal.org/team/conway/</guid>
       <description></description>
     </item>
     <item>
       <title>Myunghwa Hwang</title>
-      <link>http://localhost:1313/team/hwang/</link>
+      <link>https://pysal.org/team/hwang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/hwang/</guid>
+      <guid>https://pysal.org/team/hwang/</guid>
       <description></description>
     </item>
     <item>
       <title>Pedro Amaral</title>
-      <link>http://localhost:1313/team/amaral/</link>
+      <link>https://pysal.org/team/amaral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/amaral/</guid>
+      <guid>https://pysal.org/team/amaral/</guid>
       <description></description>
     </item>
     <item>
       <title>Philip Stephens</title>
-      <link>http://localhost:1313/team/stephens/</link>
+      <link>https://pysal.org/team/stephens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/stephens/</guid>
+      <guid>https://pysal.org/team/stephens/</guid>
       <description></description>
     </item>
     <item>
       <title>Ran Wei</title>
-      <link>http://localhost:1313/team/wei/</link>
+      <link>https://pysal.org/team/wei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/wei/</guid>
+      <guid>https://pysal.org/team/wei/</guid>
       <description></description>
     </item>
     <item>
       <title>Renan Cortes</title>
-      <link>http://localhost:1313/team/cortes/</link>
+      <link>https://pysal.org/team/cortes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/cortes/</guid>
+      <guid>https://pysal.org/team/cortes/</guid>
       <description></description>
     </item>
     <item>
       <title>Serge Rey</title>
-      <link>http://localhost:1313/team/rey/</link>
+      <link>https://pysal.org/team/rey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/rey/</guid>
+      <guid>https://pysal.org/team/rey/</guid>
       <description></description>
     </item>
     <item>
       <title>Sizhe Wang</title>
-      <link>http://localhost:1313/team/sizhe/</link>
+      <link>https://pysal.org/team/sizhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/sizhe/</guid>
+      <guid>https://pysal.org/team/sizhe/</guid>
       <description></description>
     </item>
     <item>
       <title>Stefanie Lumnitz</title>
-      <link>http://localhost:1313/team/lumnitz/</link>
+      <link>https://pysal.org/team/lumnitz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/lumnitz/</guid>
+      <guid>https://pysal.org/team/lumnitz/</guid>
       <description></description>
     </item>
     <item>
       <title>Taylor Oshan</title>
-      <link>http://localhost:1313/team/oshan/</link>
+      <link>https://pysal.org/team/oshan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/oshan/</guid>
+      <guid>https://pysal.org/team/oshan/</guid>
       <description></description>
     </item>
     <item>
       <title>Wei Kang</title>
-      <link>http://localhost:1313/team/kang/</link>
+      <link>https://pysal.org/team/kang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/kang/</guid>
+      <guid>https://pysal.org/team/kang/</guid>
       <description></description>
     </item>
     <item>
       <title>Xin Feng</title>
-      <link>http://localhost:1313/team/feng/</link>
+      <link>https://pysal.org/team/feng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/feng/</guid>
+      <guid>https://pysal.org/team/feng/</guid>
       <description></description>
     </item>
     <item>
       <title>Ziqi Li</title>
-      <link>http://localhost:1313/team/ziqi/</link>
+      <link>https://pysal.org/team/ziqi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/team/ziqi/</guid>
+      <guid>https://pysal.org/team/ziqi/</guid>
       <description></description>
     </item>
   </channel>
